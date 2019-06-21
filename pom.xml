@@ -24,7 +24,8 @@
 		<postgresql.version>42.1.4</postgresql.version>
 		<flywaydb.version>5.0.5</flywaydb.version>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
-        <webjars-bootstrap.version>3.3.2</webjars-bootstrap.version>
+		<webjars-bootstrap.version>3.3.2</webjars-bootstrap.version>
+		<dockerfile-maven.version>1.4.10</dockerfile-maven.version>
 	</properties>
 
 	<modules>

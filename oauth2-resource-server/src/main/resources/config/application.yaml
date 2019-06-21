@@ -36,4 +36,4 @@ client:
   client-secret: password
 resource:
   id: product_api
-  token-info-uri: http://localhost:8081/oauth/check_token
+  token-info-uri: http://oauth2-authorization-server:8081/oauth/check_token
